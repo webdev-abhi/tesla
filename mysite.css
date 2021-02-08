@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    font-size:  30px;
+    background: url(test.jpg);
+    background-position: center;
+}
+table{
+    color: blanchedalmond;
+}
+img{
+    border: rgb(128, 240, 162);
+    height: 400px;
+    width: 300px;
+}
+.user{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:moccasin;
+}
+.name{
+    font-family: fantasy;
+    color:rgb(107, 21, 5);
+    font-size: 50px;
+}
+#me{
+    color: yellow;
+}
